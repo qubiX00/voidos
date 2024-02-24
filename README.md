@@ -17,7 +17,8 @@ Go to the Releases tab and download voidos.bin. Put it on the SD Card, then put 
 You can also flash it directly onto your M5Cardputer, but at the time of writing this, it's not recommended
 
 # navigation
-Arrow keys to navigate arround the system
-Enter to confirm your choice
-Esc to go back
-BtnGO will (almost) always take you back to homescreen
+- Arrow keys to navigate arround the system
+- Enter to confirm your choice
+- Esc to go back
+- BtnGO will (almost) always take you back to homescreen
+- Setting time: E/S - +/- hour, Y/G - +/- minute
