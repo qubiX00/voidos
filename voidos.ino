@@ -26,7 +26,7 @@ bool timeActive = true;
 
 // os info
 String osname = "voidOS";
-String osver = "dev"; 
+String osver = "b2402"; 
 
 // debounce delay
 const unsigned long debounceDelay = 20;
