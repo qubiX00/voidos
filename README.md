@@ -17,18 +17,7 @@ Go to the Releases tab and download voidos.bin. Put it on the SD Card, then put 
 You can also flash it directly onto your M5Cardputer, but at the time of writing this, it's not recommended
 
 # navigation
-Main menu:
-Navigate with < > (left/right arrow keys)
-There are 2 pages (atm):
-- Main page (Clock)
-- Settings page
-You can press Enter on Settings page to open settings
-In settings:
-- Navigate with up/down arrow keys
-- Press Enter to enter submenu
-- Press Esc in submenu to go back to settings' main menu
-In settings/set time:
-- Press E/S to +/- Hours
-- Press Y/G to +/- Minutes
-- Press Enter to accept
-BtnGO will (almost always take you to homescreen)
+Arrow keys to navigate arround the system
+Enter to confirm your choice
+Esc to go back
+BtnGO will (almost) always take you back to homescreen
